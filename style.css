@@ -1,0 +1,73 @@
+body {
+    background-color:orange;
+    text-align: right;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+
+}
+
+header {
+    font-size: 60px;
+    display: flex;
+    justify-content: center;   
+    align-items:initial;
+    margin-top: 100px;
+}
+
+#headshot {
+    width: 450px;
+    height: 450px;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    text-align: center;
+    border-radius: 50pc;
+    float: left;
+}
+
+#cat {
+    width:400px;
+    height:400px;
+    margin-top: 80px;
+    margin-right: 300px;
+}
+
+#python {
+    width:400px;
+    height:350px;
+    margin-right: 500px;
+}
+
+#biography {
+    margin-top: 150px;
+    color:white;
+    background-color: black;
+}
+
+#link {
+    margin-right: 600px;
+    margin-top: 9px;
+}
+
+#hobbies {
+    text-align: left;
+    margin-top: 90px;
+}
+
+ul,h1,.container2 {
+    text-align: left;
+}
+
+#fact {
+    text-align: center;
+}
+
+
+#bio {
+    margin-left: 500px;
+}
+
+#one,#two {
+margin-left: 410px;
+
+}
